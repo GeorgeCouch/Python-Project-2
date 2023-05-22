@@ -1,0 +1,8 @@
+The Warrior Cleaved the Wizard for 40 damage!
+The wizard cast Lightning Bolt and damaged the warrior for 15 damage
+The Warrior attacked the Wizard for 20 damage with his Sword!
+The Wizard attacked the Warrior for 10 damage!
+The Warrior attacked the Wizard for 20 damage with his Sword!
+The Wizard attacked the Warrior for 10 damage!
+The Warrior attacked the Wizard for 20 damage with his Sword!
+The Warrior won the battle!
